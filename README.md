@@ -23,6 +23,6 @@ https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure
 ### Steps to Initialize and Apply:
 1. Run `terraform init` to initialize the backend.
 2. Run `terraform plan` to see what you are about to apply
-3. Run `terraform apply` to apply the infrastructure and store the state remotely.
+3. Run `terraform apply` to apply the infrastructure.
 4. Clean up once you are done - `terraform destroy`
 
