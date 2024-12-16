@@ -10,7 +10,7 @@ https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure
 3. Authenticate via Azure CLI
 4. Clone this repo:
 
-`git clone https://github.com/genzo1977/avd-test-env.git`
+`git clone https://github.com/genzo1977/enable-private-end-point-on-app-service-and-secure-access-to-storage-account.git`
 
 5. Change directory:
 
